@@ -1,0 +1,61 @@
+
+
+
+
+h1 {
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 55px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+}
+
+nav {
+  text-align: end;
+  padding: 12px;  
+  display: flex;
+  align-items: center;
+ 
+}
+
+nav ul li {
+ list-style: none;
+ display: inline;
+ width: 5px;
+ 
+}
+
+div {
+  width: 100%;
+}
+
+
+footer {
+    justify-content: space-between;
+    
+}
+
+footer ul {
+      display: flex;
+      justify-content: center; 
+      
+      
+      
+}
+
+footer ul li {
+        margin: 0 20px;    
+        list-style:none;
+                  
+         
+}
